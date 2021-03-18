@@ -466,7 +466,7 @@ syntax match mipsPseudoDirective "\.eqv"
 hi def link mipsComment             Comment
 hi def link mipsNumber              Number
 hi def link mipsString              String
-hi def link mipsLabel               Label
+hi def link mipsLabel               Special
 hi def link mipsRegister            Identifier
 hi def link mipsDirective           Type
 hi def link mipsInstruction         Statement
